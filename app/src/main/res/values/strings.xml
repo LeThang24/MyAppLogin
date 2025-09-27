@@ -6,4 +6,6 @@
     <string name="btn_login">Đăng nhập</string>
     <string name="btn_register">Đăng ký</string>
     <string name="test_commit">Thử commit lần 2</string>
+    <string name="signup_success">Đăng ký thành công</string>
+
 </resources>

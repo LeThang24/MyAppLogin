@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAppLogin</string>
+    <string name="hint_email">Nhập email</string>
+    <string name="hint_password">Nhập mật khẩu</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng ký</string>
+</resources>
